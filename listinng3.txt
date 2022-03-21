@@ -1,0 +1,12 @@
+var unirest = require("unirest")
+
+.get("http://localhost:3000/db?_page=1&_limit=10")
+
+.headers({
+    "cache-control":"no-cache",
+})
+
+.end(function (res) {
+    if (res.error) throw new Error(res.error)
+    console.log(res.body)
+})
