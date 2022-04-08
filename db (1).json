@@ -206,7 +206,7 @@
                                "CLINIQUE AMINA",
                                "CLINIQUE ATLAS",
                                "CLINIQUE LES ROSIERS",
-                               "CLINIQUE HASSIBA BEN BOUALI",
+                               "CLINIQUE HASSIBA BEN BOUALI"
                             ]
                         }
                     ]
@@ -227,7 +227,7 @@
                                "Clinique L'hirondelle", 
                                "Clinique centrale Bouira",
                                "Clinique de résidence",
-                               "Clinique Dr Djeridane",
+                               "Clinique Dr Djeridane"
                             ]
                         }
                     ]
@@ -265,7 +265,7 @@
                                "Clinique d’ophtalmologie Dr Djaoual Mourad Ophtalmo.",
                                "Clinique medico-chirurgicale jasminium",
                                "Clinique O.R.L Chibani",
-                               "CLINIQUE EL FERDAOUS",
+                               "CLINIQUE EL FERDAOUS"
                             ]
                         }
                     ]
@@ -291,7 +291,7 @@
                                "Clinique TABET",
                                "Clinique el amel",
                                "Clinique Lazouni",
-                               "Clinique Aboutachfine",
+                               "Clinique Aboutachfine"
                             ]
                         }
                     ]
@@ -317,7 +317,7 @@
                                "Clinique Nour",
                                "clinique Abir El Kaouther",
                                "Clinique d'hémodialyse benali",
-                               "Clinique D'ophtalmologie et O.R.L",
+                               "Clinique D'ophtalmologie et O.R.L"
                            
                             ]
                         }
@@ -352,7 +352,7 @@
                                "Clinique El Djouher",
                                "Clinique Farah",
                                "Clinique SLIMANA",
-                               "Clinique Baloul Les genets",         
+                               "Clinique Baloul Les genets"       
                             ]
                         }
                     ]
@@ -399,7 +399,7 @@
                                "Clinique Ennadjah",
                                "Clinique Sidi yahia 2",
                                "Clinique SIDI YAHIA",
-                               "Clinique Al Azhar",   
+                               "Clinique Al Azhar"   
                            ]
                         }
                     ]
@@ -420,7 +420,7 @@
                             "privé":[
                               "Clinique Elmouroudj Dr Khaldi",
                               "Clinique Dr Harzallaoui Ramdan",
-                              "Hôpital Privé Naila",                            
+                              "Hôpital Privé Naila"                            
                             ]
                             
                         }
@@ -438,7 +438,7 @@
                                 ]
                              "privé":[
                               "Clinique medico-chirurgical Rihane",
-                              "Clinique de maternité blamy Khadra",
+                              "Clinique de maternité blamy Khadra"
                             ]
                             
                         }
@@ -464,7 +464,7 @@
                               "Clinique Les BABORS -",
                               "Clinique NABTI",
                               "Clinique Mahabi",
-                              "Clinique el Tewfik Dialyse",                            
+                              "Clinique el Tewfik Dialyse"                           
                             ]
                             
                         }
@@ -481,8 +481,7 @@
                                 ]
                             "privé":[
                               "Clinique DR BENCHIHA",
-                              "Clinique Dr.Belkadi-Traumatologue",
-                            
+                              "Clinique Dr.Belkadi-Traumatologue"
                             ]
                             
                         }
@@ -504,7 +503,7 @@
                               "Clinique Rinad",
                               "Clinique privée Nisomed",
                               "Clinique El-Rachid",
-                              "Clinique Bouchama",
+                              "Clinique Bouchama"
                             ]
                             
                         }
@@ -525,14 +524,10 @@
                                 "Hôpital de Sidi Bel Abbès."
                                 ]                            
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "Clinique CHIALI",
+                              "Clinique de la Mekerra",
+                              "Clinique LES LILAS",
+                              "Clinique Les Rosiers"                           
                             ]
                             
                         }
