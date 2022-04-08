@@ -431,7 +431,7 @@
                     "name":"Jijel",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Jijel.",
                                 "Hôpital d'El Milia.",
                                 "Hôpital de Taher."
@@ -480,13 +480,8 @@
                                 "Hôpital Hamdane Bakhta."
                                 ]
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
+                              "Clinique DR BENCHIHA",
+                              "Clinique Dr.Belkadi-Traumatologue",
                             
                             ]
                             
@@ -506,14 +501,10 @@
                                 "Hôpital de Tamalous."
                                 ]
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "Clinique Rinad",
+                              "Clinique privée Nisomed",
+                              "Clinique El-Rachid",
+                              "Clinique Bouchama",
                             ]
                             
                         }
@@ -795,6 +786,11 @@
                                 "Hôpital Nouar Fadéla",
                                 "Hôpital Hadj Abed Atika"
                                  ]
+                            
+                                                          "",
+                              "",
+                              "",
+                            
                         }
                     ]
                 },
@@ -854,7 +850,7 @@
                     "name":"El Tarf",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital d'El Tarf.",
                                 "Hôpital d'El Kala.",
                                 "Hôpital de Bouhadjar."
@@ -867,7 +863,7 @@
                     "name":"Tindouf",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Tindouf."
                             ]
                         }
@@ -904,7 +900,7 @@
                     "name":"Khenchela",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Ali Boushaba.",
                                 "Hôpital nouveau.",
                                 "Hôpital de Chechar.",
@@ -918,7 +914,7 @@
                     "name":"Souk Ahras",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Houari Boumediène Sédrata.",
                                 "Hôpital Ibn Rochd Souk-Ahras.",
                                 "Hôpital ancien Souk-Ahras."
@@ -947,7 +943,7 @@
                     "name":"Mila",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Mohamed Medahi.",
                                 "Hôpital de Oued Athmania.",
                                 "Hôpital des frères Maghlaoui.",
@@ -977,7 +973,7 @@
                     "name":"Naâma",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Naama.",
                                 "Hôpital de Méchria.",
                                 "Hôpital de Aïn Sefra."
@@ -990,7 +986,7 @@
                     "name":"Aïn Témouchent",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Benaouda Benzerdjeb.",
                                 "Hôpital Ahmed Medeghri.",
                                 "Hôpital de Béni Saf.",
@@ -1006,7 +1002,7 @@
                     "name":"Ghardaïa",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Brahim Tirichine.",
                                 "Hôpital de Metlili.",
                                 "Hôpital Gueddi Bakir.",
@@ -1021,7 +1017,7 @@
                     "name":"Relizane",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Mohamed Boudiaf.",
                                 "Hôpital de Mazouna.",
                                 "Hôpital de Oued Rhiou.",
