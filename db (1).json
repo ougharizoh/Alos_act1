@@ -44,7 +44,7 @@
                                "Clinique EL IHSSENE", 
                                "CLINIQUE DU DR ABANE MOHAMED",
                                "CLINIQUE LES ORANGERS",
-                               "Clinique El Hikma",
+                               "Clinique El Hikma"
                              
                             ]
                         }
@@ -60,7 +60,7 @@
                                 "Hôpital d'Aflou."
                           ]
                             "privé":[
-                               "Clinique Gueddouda",   
+                               "Clinique Gueddouda"  
                             ]
                         }
                     ]
@@ -83,7 +83,7 @@
                                "CLINIQUE NOURINA",
                                "Clinique Malak",
                                " Clinique médical El Kafaa",
-                               "Clinique El Kafaa ",
+                               "Clinique El Kafaa "
                            
                             ]
                         }
@@ -116,7 +116,7 @@
                                "Clinique D'Hemodialyse Kassa Sahraoui",
                                "Clinique Dr arif",
                                "Clinique louchene hemodialyse et transport sanitaire",
-                               "Clinique Mohamed Saddek",
+                               "Clinique Mohamed Saddek"
                             ]
                         }
                     ]
@@ -139,7 +139,7 @@
                             ]
                             "privé":[
                                "Clinique Rameau d'Olivier de Bejaia", 
-                               "Clinique Les Lilas",
+                               "Clinique Les Lilas"
                             ]
                         }
                     ]
@@ -163,7 +163,7 @@
                                "Clinique FARHI",
                                "clinique d'ophtalmologie - les dunes",
                                "Clinique Dalaa",
-                               "Clinique Ophtalmo Boukh",
+                               "Clinique Ophtalmo Boukh"
                             ]
                         }
                     ]
@@ -181,7 +181,7 @@
                                 "Hôpital de Mohamed Boudiaf (Debdaba)."
                               ]
                             "privé":[
-                               "Clinique Ali Cherif Ahmed", 
+                               "Clinique Ali Cherif Ahmed" 
                             ]
                         }
                     ]
@@ -492,7 +492,7 @@
                     "name":"Skikda",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Skikda.",
                                 "Hôpital d'El Harrouch.",
                                 "Hôpital de Collo.",
@@ -514,7 +514,7 @@
                     "name":"Sidi Bel Abbès",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "CHU Dr Hassani Abdelkader.",
                                 "Hôpital Dahmani Slimane.",
                                 "Hôpital Hadid Aissa (Telagh).",
@@ -538,7 +538,7 @@
                     "name":"Annaba",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "CHU de Ibn Rochd",
                                 "CHU de Ibn sina",
                                 "CHU Dorban ",
@@ -550,14 +550,13 @@
                                 "Hôpital Er Razi."
                                 ]          
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "Clinique Ibn Nafis",
+                              "Clinique Beni M'haffeur",
+                              "Clinique Belle vue Elysa",
+                              "clinique el ferdaous",
+                              "Clinique El Djazair",
+                              "Clinique chirurgicale El Aurassi",
+                              "Clinique Les Jasmins" 
                             ]
                             
                         }
@@ -568,7 +567,7 @@
                     "name":"Guelma",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Hakim El Okbi de Guelma.",
                                 "Hôpital Ibn Zohour de Guelma.",
                                 "Hôpital de Aïn Larbi.",
@@ -576,14 +575,9 @@
                                 "Hôpital de Bouchegouf."
                                 ]    
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "Clinique Chifa Plus",
+                              "clinique calama TLiLi",
+                              "Clinique Dentaire Mohamdatni"
                             ]
                             
                     
@@ -595,7 +589,7 @@
                     "name":"Constantine",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Ibn Badis de Constantine.",
                                 "Hôpital El Bir de Constantine.",
                                 "Hôpital Mohamed Boudiaf d'El Khroub.",
@@ -608,14 +602,9 @@
                                 "Hôpital pédiatrique de la cité Mansourah."
                                 ]       
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "Clinique Mohamed El Mehdi",
+                              "Clinique Naoufel",
+                              "Clinique les Violettes"
                             ]
                             
                         }
@@ -626,7 +615,7 @@
                     "name":"Médéa",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Médéa.",
                                 "Hôpital de Berrouaguia.",
                                 "Hôpital de Tablat.",
@@ -636,13 +625,8 @@
                                 "Hôpital de Chellalet El Adhaoura"
                                 ]  
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
+                              "Clinique d'hémodialyse El HANAE",
+                              "Clinique Dr NETTAH Zahida"
                             
                             ]
                             
@@ -654,7 +638,7 @@
                     "name":"Mostaganem",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Mostaganem. ",
                                 "CHU de Mostaganem Kharouba. ",
                                 "Hôpital de Aïn Tedlès.",
@@ -664,14 +648,14 @@
                                 "Hôpital de Psychiatrie Medjdoub Youcef."
                                 ]
                               "privé":[
-                               "", 
-                               "",
-                               "",
-                               "",
-                               "",
-                               "",
-                               "",
-                               "",
+                               "Clinique Benosman", 
+                               "Clinique Kara El-Habib",
+                               "Clinique Nait",
+                               "Dar El Bassar",
+                               "Clinique Elite Médico",
+                               "Clinique Kharoubi",
+                               "Clinique Djebli Mohamed",
+                               "clinique el nour"
                            
                             ]
                         }
@@ -682,21 +666,18 @@
                     "name":"M'Sila",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de M'Sila.",
                                 "Hôpital de Boussaada.",
                                 "Hôpital de Sidi Aïssa.",
                                 "Hôpital de Aïn El Maleh."
                                ]   
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "Clinique kalaa",
+                              "clinique soundous",
+                              "clinique d'hemodialyse soundous",
+                              "Clinique Hodna",
+                              "clinique hammadite"
                             ]
                             
                         }
@@ -707,7 +688,7 @@
                     "name":"Mascara",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Meslem Tayeb.",
                                 "Hôpital de Issaad Khaled.",
                                 "Hôpital de Tighennif.",
@@ -722,13 +703,8 @@
                                 "Hôpital de Mohammadia."
                                  ]    
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
+                              "Clinique Meliani",
+                              "Clinique Alazzizia"
                             
                             ]
                             
@@ -740,21 +716,15 @@
                     "name":"Ouargla",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Ouargla.",
                                 "Hôpital de Touggourt.",
                                 "Hôpital de Hassi Messaoud.",
                                 "Hôpital de Taïbet."
                                  ]  
                             "privé":[
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                              "",
-                            
+                              "clinique ediya",
+                              "Clinique Médical Boughoufala"
                             ]
                             
                         }
@@ -765,7 +735,7 @@
                     "name":"Oran",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Centre hospitalier et universitaire Benaouda Benzerdjeb",
                                 "Hôpital du {{1er}} Novembre 1954",
                                 "Hôpital de Madjbeur Tami de Aïn El-Turk",
@@ -781,11 +751,14 @@
                                 "Hôpital Nouar Fadéla",
                                 "Hôpital Hadj Abed Atika"
                                  ]
-                            
-                                                          "",
-                              "",
-                              "",
-                            
+                            "privé":[
+                              "Clinique Le Caducée",
+                              "Clinique Cherrak El Ghosli",
+                              "Clinique El MECHOUAR",
+                              "Clinique Amraoui",
+                              "Clinique Benserai",
+                              "Clinique IMENE"
+                            ]
                         }
                     ]
                 },
@@ -794,11 +767,15 @@
                     "name":"El Bayadh",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital d'El Bayadh.",
                                 "Hôpital d'El Abiodh Sidi Cheikh.",
                                 "Hôpital de Bougtob."
-                                 ]
+                                 ]     
+                            "privé":[
+                              "Hôpital Privé Naila"
+                            ]
+                            
                         }
                     ]
                 },
@@ -807,10 +784,12 @@
                     "name":"Illizi",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital d'Illizi.",
                                 "Hôpital de Djanet."
-                                 ]
+                                 ]     
+
+                            
                         }
                     ]
                 },
@@ -819,11 +798,16 @@
                     "name":"Bordj Bou Arreridj",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Bordj Bou Arreridj.",
                                 "Hôpital de Medjana.",
                                 "Hôpital de Ras El Oued."
-                                 ]
+                                 ]    
+                            "privé":[
+                              "Clinique Akhrouf taher",
+                              "Clinique Zeraibi",
+                              "Clinique ophtalmologique mohabeddine"
+                            ]
                         }
                     ]
                 },
@@ -832,11 +816,16 @@
                     "name":"Boumerdès",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Thénia",
                                 "Hôpital de Bordj Ménaïel",
                                 "Hôpital de Dellys|Hôpital Mohamed Boudaoud de Dellys"
-                                 ]
+                                 ]   
+                            "privé":[
+                              "CLINIQUE AL SALAM",
+                              "CLINIQUE LA VERTE COLLINE",
+                              "CLINIQUE MEDICO CHIRURGICALE EL HILAL"
+                            ]
                         }
                     ]
                 },
@@ -849,7 +838,10 @@
                                 "Hôpital d'El Tarf.",
                                 "Hôpital d'El Kala.",
                                 "Hôpital de Bouhadjar."
-                                 ]
+                                 ]   
+                            "privé":[
+                              "Clinique privée El-Manar"
+                            ]
                         }
                     ]
                 },
@@ -860,7 +852,7 @@
                         {
                             "etatique":[
                                 "Hôpital de Tindouf."
-                            ]
+                            ]    
                         }
                     ]
                 },
@@ -869,11 +861,15 @@
                     "name":"Tissemsilt",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital de Tissemsilt.",
                                 "Hôpital de Theniet El Had.",
                                 "Hôpital de Bordj bou Naama."
-                                 ]
+                                 ]   
+                            "privé":[
+                              "Elite clinique tissemsilt",
+                              "Clinique médicale batole el rahmane"
+                            ]
                         }
                     ]
                 },
@@ -882,11 +878,16 @@
                     "name":"El Oued",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Bachir Bennacer.",
                                 "Hôpital d'El Maghaïer.",
                                 "Hôpital de Djamaâ."
-                                 ]
+                                 ]    
+                            "privé":[
+                              "Clinique IBN HAYANE",
+                              "Clinique Errimel",
+                              "Clinique Dentaire Gaboussa Sofiane"
+                            ]
                         }
                     ]
                 },
@@ -900,7 +901,10 @@
                                 "Hôpital nouveau.",
                                 "Hôpital de Chechar.",
                                 "Hôpital de Kaïs."
-                                 ]
+                                 ]   
+                            "privé":[
+                              "Clinique El Widad"
+                            ]
                         }
                     ]
                 },
@@ -913,7 +917,10 @@
                                 "Hôpital Houari Boumediène Sédrata.",
                                 "Hôpital Ibn Rochd Souk-Ahras.",
                                 "Hôpital ancien Souk-Ahras."
-                                 ]
+                                 ]   
+                            "privé":[
+                              "Clinique privée El-Manar"
+                            ]
                         }
                     ]
                 },
@@ -922,14 +929,20 @@
                     "name":"Tipaza",
                     "hospital":[
                         {
-                            "etatiqueé":[
+                            "etatique":[
                                 "Hôpital Lakhdar Bouchama.",
                                 "Hôpital Djellaloui Mohamed specialisé en psychiatrie.",
                                 "Hôpital de neuro-chirurgie Cherchell.",
                                 "Hôpital Dr Yahia Fares.",
                                 "Hôpital Koubaili Mohamed Erabat.",
                                 "Hôpital de Gouraïa."
-                               ]
+                               ]    
+                            "privé":[
+                              "Clinique christal",
+                              "Clinique Boudjella",
+                              "Clinique d'Ophtalmologie CRISTAL",
+                              "Clinique El AMEL"
+                            ]
                         }
                     ]
                 },
@@ -945,7 +958,11 @@
                                 "Hôpital des frères Tobal.",
                                 "Hôpital de Chelghoum Laïd.",
                                 "Hôpital de Ferdjioua."
-                               ]
+                               ]    
+                            "privé":[
+                              "Clinique Sennaoua",
+                              "CLINIQUE HÉMODIALYSE EURL BIM ARISTAN"
+                            ]
                         }
                     ]
                 },
@@ -959,7 +976,11 @@
                                 "Hôpital de Khemis Miliana.",
                                 "Hôpital de Miliana.",
                                 "Hôpital d'El Attaf."
-                               ]
+                               ]   
+                            "privé":[
+                              "Clinique de Proximité MAZOUNI",
+                              "CLINIQUE ELBARAKA ET CHIFFA"
+                            ]
                         }
                     ]
                 },
@@ -972,7 +993,10 @@
                                 "Hôpital de Naama.",
                                 "Hôpital de Méchria.",
                                 "Hôpital de Aïn Sefra."
-                               ]
+                               ]  
+                            "privé":[
+                              "Hôpital Privé Naila"
+                            ]
                         }
                     ]
                 },
@@ -989,6 +1013,10 @@
                                 "Hôpital de Aïn Témouchent.",
                                 "Hôpital El amria"
                                ]
+                            "privé":[
+                              "Clinique Ibn Sina",
+                              "Clinique DR Ouslim"
+                            ]
                         }
                     ]
                 },
@@ -1004,6 +1032,11 @@
                                 "Hôpital d'El Ménéa.",
                                 "Hôpital de Guerrara."
                                ]
+                           "privé":[
+                             "Clinique Des Oasis",
+                             "Clinique El Ksours",
+                             "CLINIQUE ETOILE DU SUD D'OPHTALMOLOGIE"
+                            ]
                         }
                     ]
                 },
@@ -1021,6 +1054,11 @@
                                 "Hôpital d'Ami Moussa",
                                 "Hôpital de Zemmora (en construction)"
                                ]
+                            
+                           "privé":[ 
+                            "Clinique El-Walid Relizane",
+                            "Clinique Dr BOUKHATEM"
+                            ]
                         }
                     ]
                 }    
